@@ -1,0 +1,19 @@
+{
+  "categories": [
+    {
+      "name": "test name",
+      "diplayName": "test displayname",
+      "description": "test desc",
+      "_id": 1
+    }
+  ],
+  "products": [
+    {
+      "category": "test C",
+      "name": "test name",
+      "diplayName": "test displayname",
+      "description": "test desc",
+      "_id": 1
+    }
+  ]
+}
